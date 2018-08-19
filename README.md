@@ -1,3 +1,3 @@
 # gitskills
 Hello GitHub!
-My name is HuangHx!
+My name is HuangHX!
